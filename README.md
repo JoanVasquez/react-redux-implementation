@@ -1,4 +1,4 @@
-# CONFIGURANDO WEBPACK CON REACT JS
+# CONFIGURANDO REDUX EN REACT JS
 In this code I will show you how to configure Redux with React JS. The main functionality of this code will be to implement react-redux in React JS.
 
 Whether this project helped, please donate for a coffee.
